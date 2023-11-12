@@ -31,8 +31,7 @@
 
 ## Redes Sociales 🌐
 ¡Conéctate conmigo en LinkedIn para mantenernos en contacto y aprender juntos!
-[![LinkedIn]https://img.shields.io/badge/LinkedIn-Juan%20Roberto%20Garc%C3%ADa%20G%C3%B3mez-blue)](https://www.linkedin.com/in/juan-roberto-garc%C3%ADa-g%C3%B3mez-41880b200/
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Roberto%20Garc%C3%ADa%20G%C3%B3mez-blue)](https://www.linkedin.com/in/juan-roberto-garc%C3%ADa-g%C3%B3mez-41880b200/)
 
 
 
