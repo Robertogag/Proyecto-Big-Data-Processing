@@ -2,7 +2,7 @@
 
 ¡Bienvenido al repositorio de mi emocionante proyecto de procesamiento de Big Data! Aquí, he explorado a fondo los datos del Índice de Felicidad de diversos países a lo largo de los años. Utilizando las herramientas aprendidas en el módulo, he respondido preguntas clave que arrojan luz sobre la conexión entre el bienestar y diversos factores a nivel mundial.
 
-## Publicación en Medium: 
+## Publicación en Medium: (Clic en la imagen)
 [![Consulta el Proyecto en Medium](https://miro.medium.com/v2/resize:fit:680/1*s986xIGqhfsN8U--09_AdA.png)](https://medium.com/@robertogg116/proyecto-big-data-processing-237361a2c386)
 
 ## Preguntas Clave Exploradas:
