@@ -7,7 +7,7 @@
 
 ## Preguntas Clave Exploradas:
 1. **¿Cuál es el país más "feliz" del 2021?**
-   - Descubre cuál nación lidera en felicidad este año.
+   - Descubre cuál nación lidera en felicidad.
 
 2. **¿El país más "feliz" del 2021 por continente?**
    - Exploro la felicidad a nivel continental para obtener una perspectiva más amplia.
